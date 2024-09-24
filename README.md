@@ -24,10 +24,12 @@ They interoperate as follows:
 
 ## Project architecture
 
+![Project architecture](https://github.com/user-attachments/assets/89bb8c1c-b0e1-42cf-9c7b-be1a3ee1968c)
 
 
 ## Database Schema (tables of interest)
 
+![Database schema](https://github.com/user-attachments/assets/8b5db099-1573-43d5-a60a-d76d73dd00cc)
 
 
 ## Prerequisites
@@ -178,6 +180,7 @@ The project is not deployed in production mainly due to cost considerations. Run
 
 #### Suggested Architecture
 
+![Suggested Architecture](https://github.com/user-attachments/assets/8fbc1d4c-90c2-4d46-91bd-6a1877cbdf8f)
 
 
 ### Next steps
