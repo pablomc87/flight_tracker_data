@@ -48,13 +48,13 @@ They interoperate as follows:
     cd pablo-calvo-flight-radar-c9ea6ea7-ed6a-4ee2-9e62-905ae0c43e4b
     ```
 
-2. **Create a virtual environment**:
+2. **Create a virtual environment** (optional):
     ```sh
     python3.12 -m venv .venv
     source .venv/bin/activate
     ```
 
-3. **Install dependencies**:
+3. **Install dependencies** (optional):
     ```sh
     pip install -r requirements.txt
     ```
